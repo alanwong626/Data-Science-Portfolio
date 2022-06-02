@@ -5,6 +5,10 @@
 
 # **About Me**
 
+
+![Cover Photo.jpg](img/Cover_Photo.jpg)
+
+
 **tldr:** Data science enthusiast with a **strong background** in the **financial market** (particularly in risk). Have extensive experience working on various **dashboard building**, **data pipeline building** and **machine learning projects** between my work experience and personal projects.
 
 **Programming language:** Python, SQL, Power Query M, Power BI DAX
@@ -34,8 +38,6 @@ There are quite a few things I am passionate about, and Data Science is just one
 ---
 
 </br>
-
-![Cover Photo.jpg](img/Cover_Photo.jpg)
 
 
 # **Past projects**
