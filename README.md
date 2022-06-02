@@ -1,4 +1,4 @@
-# Data Science Project Portfolio
+# Alan's Portfolio Page
 
 ## Last updated: 2nd June 2022
 # 🔧 **This page is undergoing some major update, please stay tuned for the daily updates.**  🔧
