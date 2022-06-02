@@ -71,7 +71,7 @@ Training a reinforcement learning agent to play the Google Chrome dinosaur game 
 
 ![PBI_snapshot](img/PBI_snapshot.png)
 
-This dashboard is an approximate replicate of one of the many dashboards I built at work. The dashboard aimed to visualize all the important market information in a single dashboard while allowing us to generate charts for daily reporting purposes quickly.
+This dashboard is an approximate replicate of one of the many dashboards I built at work. I aimed to visualize all the important market information in a single dashboard while allowing us to generate charts for daily reporting purposes quickly.
 
 [Documentation](https://github.com/alanwong626/Stock-Market-PowerBI)
 
@@ -102,7 +102,7 @@ While I have had extensive experience using APIs to collect market data, some of
 
 ![Capstone_snapshot](img/Capstone_snapshot.png)
 
-Studying in the UK was fun! So what if I wanted to stay in the UK and open a pub in the area where I spent almost 10 years of my life in? Let’s use machine learning to help us identify which area we should open our pubs!
+Studying in the UK was fun! What if I were to stay there and open a pub near where I spent my teenage life? Let’s use machine learning to help us identify where we should open our pubs!
 
 [Repo](https://github.com/alanwong626/Coursera_Capstone)
 
