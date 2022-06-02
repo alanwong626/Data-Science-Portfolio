@@ -47,6 +47,7 @@ There are quite a few things I am passionate about, and Data Science is just one
 🦖**Playing the Google Chrome T-Rex Game with Deep Q-learning** 🌵
 
 ![Demo](/img/dino_run_demo.gif)
+
 Training a reinforcement learning agent to play the Google Chrome dinosaur game at a super human level.
 
 [Repo](https://github.com/alanwong626/Deep-RL-Trex-Game)
