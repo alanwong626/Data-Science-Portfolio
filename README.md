@@ -1,6 +1,6 @@
 # Alan's Portfolio Page
 
-## Last updated: 2nd June 2022
+## Last updated: 3rd June 2022
 # 🔧 **This page is undergoing some major updates, please stay tuned for the daily updates.**  🔧
 
 # **About Me**
@@ -79,6 +79,8 @@ This dashboard is an approximate replicate of one of the many dashboards I built
 
 [Photo Demo](https://github.com/alanwong626/Stock-Market-PowerBI/blob/main/demo/Photo%20demo/Dashboard%20Snapshots.pdf)
 
+**Project Keywords:** Power BI, Business Intelligence, Visualization, Power BI DAX Lanauage
+
 
 </br>
 
@@ -88,11 +90,14 @@ This dashboard is an approximate replicate of one of the many dashboards I built
 📈**Streamlit dashboard - A Streamlit dashboard for financial market**📉
 
 ![streamlist_snapshot](img/streamlist_snapshot.png)
-While I have had extensive experience using APIs to collect market data, some of my previous colleagues have less experience, so I wanted to help. This dashboard is built on Streamlit, and users can download market data with a click of a button and obtain quick visualizations for their reports!
+While I have had extensive experience using APIs to collect market data, some of my previous colleagues are less familiar with the topic. To increase efficiency of the team, I would like to offer my expertise. This dashboard is built on Streamlit, and users can download market data with a click of a button and obtain quick visualizations for their reports!
 
 [Repo](https://github.com/alanwong626/market-monitoring)
 
 [Go to the website](https://share.streamlit.io/alanwong626/market-monitoring/main/app.py)
+
+**Project Keywords:** Power BI, Business Intelligence, Visualization, Power BI DAX Lanauage
+
 
 </br>
 
@@ -104,13 +109,13 @@ While I have had extensive experience using APIs to collect market data, some of
 
 Studying in the UK was fun! What if I were to stay there and open a pub near where I spent my teenage life? Let’s use machine learning to help us identify where we should open our pubs!
 
-[Repo](https://github.com/alanwong626/Coursera_Capstone)
+<!---  [Repo](https://github.com/alanwong626/Coursera_Capstone) -->
 
 [Written Report](https://github.com/alanwong626/Coursera_Capstone/blob/main/IBM%20capstone%20week%202.pdf)
 
 [Presentation](https://github.com/alanwong626/Coursera_Capstone/blob/main/Presentation%20(IBM%20captstone).pdf)
 
-**Project Keywords:** Unsupervised learning, Clutering, Silhouette Analysis, Python, Visualization
+**Project Keywords:** Market data, API call, Yahoo Finance, Investing.com, Visualization
 
 </br>
 
@@ -139,6 +144,8 @@ Repo
 Report
 
 Demo
+
+**Project Keywords:** K-means, clustering algorithm
 
 <br/>
 
