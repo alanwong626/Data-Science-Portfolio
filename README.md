@@ -139,7 +139,7 @@ Studying in the UK was fun! What if I were to stay there and open a pub near whe
 
 **tldr:** End to end data science project from preliminary studies to building a dashboard pipeline to deployment in Azure
 
-Repo
+[Repo](https://github.com/alanwong626/yelp-dataset)
 
 Report
 
@@ -164,7 +164,7 @@ Demo
 
 **tldr:** End to end data science project from preliminary studies to building a dashboard pipeline to deployment in Azure
 
-Repo
+[Repo](https://github.com/alanwong626/reddit)
 
 Report
 
