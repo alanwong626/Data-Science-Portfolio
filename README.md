@@ -1,6 +1,6 @@
 # Alan's Portfolio Page
 
-## Last updated: 3rd June 2022
+## Last updated: 6th June 2022
 # 🔧 **This page is undergoing some major updates, please stay tuned for the daily updates.**  🔧
 
 # **About Me**
