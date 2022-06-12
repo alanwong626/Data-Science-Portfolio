@@ -1,6 +1,12 @@
 # Alan's Portfolio Page
 
-## Last updated: 6th June 2022
+## Last updated: 12th June 2022
+```Updated Yelp dataset project, next step is to deploy a test streamlit webapp containing a spark.ml logistic regression model.```
+
+```The webapp should take user input of a review text and a star rating (1 to 5). The project will determine the review is useful or not.```
+
+</br>
+
 # 🔧 **This page is undergoing some major updates, please stay tuned for the daily updates.**  🔧
 
 # **About Me**
@@ -139,7 +145,7 @@ Studying in the UK was fun! What if I were to stay there and open a pub near whe
 
 **tldr:** End to end data science project from preliminary studies to building a dashboard pipeline to deployment in Azure
 
-[Repo](https://github.com/alanwong626/yelp-dataset)
+[Repo](https://github.com/alanwong626/reddit)
 
 Report
 
