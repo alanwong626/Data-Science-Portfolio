@@ -1,6 +1,14 @@
 # Alan's Portfolio Page
 
-## Last updated: 12th June 2022
+## Last updated: 
+13th June 2022
+
+```Yelp dataset project: Testing deployment using a demo streamlit app. Successful set up a local docker container with docker-compose (with port mapping for Azure. The next step is to set up the appropriate resource group in Azure Container Registry and Azure App Service plans```
+
+
+
+12th June 2022
+
 ```Updated Yelp dataset project, next step is to deploy a test streamlit webapp containing a spark.ml logistic regression model.```
 
 ```The webapp should take user input of a review text and a star rating (1 to 5). The project will determine the review is useful or not.```
