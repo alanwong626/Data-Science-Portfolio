@@ -1,6 +1,10 @@
 # Alan's Portfolio Page
 
 ## Last updated: 
+25th June 2022
+```Deployment in progress, please stay tuned for updates```
+
+
 13th June 2022
 
 ```Yelp dataset project: Testing deployment using a demo streamlit app. Successful set up a local docker container with docker-compose (with port mapping for Azure. The next step is to set up the appropriate resource group in Azure Container Registry and Azure App Service plans```
@@ -15,7 +19,7 @@
 
 </br>
 
-# 🔧 **This page is undergoing some major updates, please stay tuned for the daily updates.**  🔧
+# 🔧 **This page is undergoing some major updates, please stay tuned for the updates.**  🔧
 
 # **About Me**
 
