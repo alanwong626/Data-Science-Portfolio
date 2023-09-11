@@ -145,32 +145,9 @@ Studying in the UK was fun! What if I were to stay there and open a pub near whe
 # **Work in progress**
 
 
-## 🚧 **End-to-end data science project 1** 🚧
-
-**From research to deployment - Reddit sentiment dashboard** 
-
-![reddit_project_v2](img/reddit_project_v2.png)
-
-**Language used:** Python, SQL (PostgreSQL)
-
-**Software used:** Microsoft Azure, Docker (Docker Compose), Apache Airflow, NLTK, Scikit-learn, Streamlit, PushShift API
-
-**tldr:** End to end data science project from preliminary studies to building a dashboard pipeline to deployment in Azure
-
-[Repo](https://github.com/alanwong626/reddit)
-
-Report
-
-Demo
-
-**Project Keywords:** K-means, clustering algorithm
-
-<br/>
-
-
 **Project keywords:** Azure, cloud, Python, Natural Lanauage Processing, Dashboard, MLOps, Apache Airflow
 
-## 🚧 **End-to-end data science project 2**🚧
+## 🚧 **End-to-end data science project**🚧
 
 ![yelp eda](img/yelp%20eda.png)
 
